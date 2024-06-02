@@ -7,32 +7,26 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- Please provide a general summary of the issue. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Expected behavior
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- Please tell us what should happen -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Current behavior
+<!-- Please tell us what happens instead of the expected behavior -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Steps to reproduce
+<!-- Provide a link to a live example, or an unambiguous set of steps to reproduce this bug. Include code to reproduce, if relevant. -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+1.
+2.
+3.
+4.
 
-**Additional context**
-Add any other context about the problem here.
+## Context (Environment)
+<!-- How has this issue affected you? What are you trying to accomplish? Providing context helps us come up with a solution that is most useful in the real world -->
+
+## Affected feature
+
+<!-- If you know that your bug is happening in a specific feature, please list it here. And, if you see a matching label with the `area/` prefix, please feel free to apply it. -->
