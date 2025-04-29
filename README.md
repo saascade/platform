@@ -1,4 +1,4 @@
-# SaaScade Platform Issue Tracker
+# SAAScade Platform Issue Tracker
 Welcome to the public issue tracker for the [SaaScade Platform](https://www.saascade.com/platform)!
 
 This is a place for users of the platform (https://www.saascade.com) to report bugs, create feature requests, and comment and upvote on community-led ideas.
